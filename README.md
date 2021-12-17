@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello 👋
+I am a chemical engineering graduate looking for opportunities in the development area. I've always loved researching and learning new things. 
 
-<!--
-**smlorac/smlorac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a student of a Certified Tech Developer course of 2 years, aiming to become a full stack developer with a back end specialization.
 
-Here are some ideas to get you started:
+Programming Languages: Javascript, Java, C, Python, MATLAB, Scilab
+Front End Development: HTML, CSS, Bootstrap
+Back End Development: Postman
+Databases: MySQL
+Testing: Jest, Selenium, Robot Framework
+Frequently Used Tools: Git, Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=smlorac&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smlorac&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/caroline-machado-da-silva-846937142/)
+
