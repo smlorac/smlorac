@@ -4,10 +4,15 @@ I am a chemical engineering graduate looking for opportunities in the developmen
 I'm currently a student of a Certified Tech Developer course of 2 years, aiming to become a full stack developer with a back end specialization.
 
 Programming Languages: Javascript, Java, C, Python, MATLAB, Scilab
+
 Front End Development: HTML, CSS, Bootstrap
+
 Back End Development: Postman
+
 Databases: MySQL
+
 Testing: Jest, Selenium, Robot Framework
+
 Frequently Used Tools: Git, Bash
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=smlorac&theme=synthwave)
