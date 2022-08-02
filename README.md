@@ -5,11 +5,13 @@ I'm currently a student of a Certified Tech Developer course of 2 years, aiming 
 
 Programming Languages: Javascript, Java, C, Python, MATLAB, Scilab
 
-Front End Development: HTML, CSS, Bootstrap
+Front End Development: HTML, CSS
 
-Back End Development: Postman
+Back End Development: Postman, Node.js
 
-Databases: MySQL
+Mobile App Development: Swift, Flutter
+
+Databases: MySQL, PostgresSQL
 
 Testing: Jest, Selenium, Robot Framework
 
