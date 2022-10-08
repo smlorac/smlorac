@@ -1,7 +1,7 @@
 ### Hello 👋
 I am a chemical engineering graduate looking for opportunities in the development area. I've always loved researching and learning new things. 
 
-I'm currently a student of a Certified Tech Developer course of 2 years, aiming to become a full stack developer with a back end specialization.
+I'm currently a student of a Certified Tech Developer, aiming to become a full stack developer with a focus in back end.
 
 Programming Languages: Javascript, Java, C, Python, MATLAB, Scilab
 
