@@ -1,17 +1,17 @@
 ### Hello 👋
 I am a chemical engineering graduate looking for opportunities in the development area. I've always loved researching and learning new things. 
 
-I'm currently a student of a Certified Tech Developer, aiming to become a full stack developer with a focus in back end.
+I've just finished a Certified Tech Developer course, becoming a certified full stack developer with a focus in back end.
 
 Programming Languages: Javascript, Java, C, Python, MATLAB, Scilab
 
-Front End Development: HTML, CSS
+Front End Development: HTML, CSS, React
 
-Back End Development: Postman, Node.js
+Back End Development: Postman, Node.js, Spring Boot
 
 Mobile App Development: Swift, Flutter
 
-Databases: MySQL, PostgresSQL
+Databases: MySQL, PostgresSQL, MongoDB
 
 Testing: Jest, Selenium, Robot Framework
 
